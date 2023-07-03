@@ -1,16 +1,23 @@
 ### Hi there 👋
+## Welcome to my GitHub page!
 
-<!--
-**CSBoyce85/CSBoyce85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here you can find my current projects that I am working on!
 
 - 🔭 I’m currently working on ...
+Learning and development tasks as part of my Data Science Bootcamp with Hyperion Dev!
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+GitHub, Python, Machine Learning and AI, Data Analysis
+
 - 🤔 I’m looking for help with ...
+Getting the hang of repositories.
+
 - 💬 Ask me about ...
+Availability and interest in future job opportunities.
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here on GitHub
+Hackajob:
+LinkedIn:
+
 -->
